@@ -22,6 +22,6 @@ Have a project in mind or just want to learn more about what we do? Feel free to
 
 **Website:** [venoxity.dev](https://venoxity.dev)
 
-**Discord:** https://discord.gg/GmCcFDGJaE
+**Discord:** https://discord.gg/venoxity-network-977366062100283444
 
 ### _**Let's build something amazing together!**_
