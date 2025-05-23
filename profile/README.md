@@ -1,1 +1,1 @@
-# Welcome to Venoxity Development's GitHub organisation!
+# Welcome to Venoxity Development
